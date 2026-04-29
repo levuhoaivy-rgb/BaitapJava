@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7988acb7-28d5-432a-b74d-f56da022d1fc" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
+    <list default="true" id="7988acb7-28d5-432a-b74d-f56da022d1fc" name="Changes" comment="hoan thanh bai 1">
+      <change afterPath="$PROJECT_DIR$/src/bai3tongsochan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai1nguyenam.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,22 +34,22 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "assignee": "levuhoaivy-rgb"
+      &quot;assignee&quot;: &quot;levuhoaivy-rgb&quot;
     }
   ],
-  "lastFilter": {
-    "assignee": "levuhoaivy-rgb"
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;levuhoaivy-rgb&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/levuhoaivy-rgb/BaitapJava.git&quot;,
@@ -64,24 +68,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.bai1.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Data/Java/Tester15/BaitapJava&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.bai1.executor": "Run",
+    "Application.bai3tongsochan.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Data/Java/Tester15/BaitapJava",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai1" />
+}]]></component>
+  <component name="RunManager" selected="Application.bai3tongsochan">
+    <configuration name="bai1nguyenam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai1nguyenam" />
+      <module name="BaitapJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai3tongsochan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai3tongsochan" />
       <module name="BaitapJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,7 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.bai1" />
+        <item itemvalue="Application.bai3tongsochan" />
+        <item itemvalue="Application.bai1nguyenam" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +201,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777472430976</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="bai 1">
+      <option name="closed" value="true" />
+      <created>1777481596795</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1777481596795</updated>
+    </task>
+    <task id="LOCAL-00012" summary="hoan thanh bai 1">
+      <option name="closed" value="true" />
+      <created>1777482503477</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1777482503477</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +236,8 @@
     <MESSAGE value="Nop bai tap Java" />
     <MESSAGE value="    Nop bai tap Java" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="bai 1" />
+    <MESSAGE value="hoan thanh bai 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoan thanh bai 1" />
   </component>
 </project>

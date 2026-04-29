@@ -1,4 +1,4 @@
-public class bai1 {
+public class bai1nguyenam {
     public static void main(String[] args) {
         String s = "Cybersoft";
         int len = s.length();
